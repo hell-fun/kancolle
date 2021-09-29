@@ -2,7 +2,7 @@
 
 * [舰队collection记录](README.md)
 
-## update <a id="kan"></a>
+## update
 
 ---
 
