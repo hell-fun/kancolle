@@ -6,11 +6,9 @@
 * [demo3](demo3-1.md)
 * [demo4](demo4.md)
 
-## update <a id="2021.9.28-1"></a>
+## update
 
----
-
-* [2021.9.28](2021.9.28.md)
+* [2021.9.28](update/2021.9.28.md)
 
 ## plan
 
