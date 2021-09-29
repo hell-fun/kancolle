@@ -2,7 +2,7 @@
 
 * [舰队collection记录](README.md)
 
-## update
+## update <a id="kan"></a>
 
 ---
 
@@ -10,9 +10,7 @@
 
 ## plan
 
----
-
-* [改造相关](gai-zao-xiang-guan.md)
+* [改造相关](plan/gai-zao-xiang-guan.md)
 
 ## tools
 

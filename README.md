@@ -10,7 +10,7 @@ description: 个人笔记
 
 ### **个人计划**
 
-{% page-ref page="gai-zao-xiang-guan.md" %}
+{% page-ref page="plan/gai-zao-xiang-guan.md" %}
 
 ### **工具网站**
 
