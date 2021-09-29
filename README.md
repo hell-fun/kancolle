@@ -6,7 +6,7 @@ description: 个人笔记
 
 ### **更新记录**
 
-{% page-ref page="2021.9.28.md" %}
+{% page-ref page="update/2021.9.28.md" %}
 
 ### **个人计划**
 
